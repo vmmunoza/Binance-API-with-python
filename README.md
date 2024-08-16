@@ -11,3 +11,6 @@
   
  #### Once you have everything, you can just run [this jupyter notebook](https://github.com/vmmunoza/Binance-API-with-python/blob/main/BinanceAPI.ipynb)
 
+____________________
+
+Future update, perform EDA and more with GPT.
